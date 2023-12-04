@@ -1,0 +1,11 @@
+Client (Frontend: React)
+	1.npm init vite ->react ->js
+	2.npm install
+	3.npm install bootstrap axios react-router-dom
+	4.npm run dev
+
+Server (Backend: Node js, Express) & (Database:Mongodb)
+	1.npm init -y
+	2.npm i express cors mongoose nodemon
+	3.package.json ->     "start": "nodemon index.js"
+	4.npm start
